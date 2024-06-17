@@ -1,7 +1,9 @@
 **Dev Trivedi - Web Developer**
 
 **About Me**
-Hi there! I'm Dev Trivedi, a passionate web developer and designer from Hyderabad, Telangana, India. I specialize in crafting stunning, user-friendly websites that drive conversions. With expertise in HTML5, CSS, Bootstrap, WordPress, PHP, SQL, C, and Python, I create dynamic and responsive digital experiences tailored to my clients' unique needs.
+Hi there! I'm Dev Trivedi, a passionate web developer and designer from Hyderabad, Telangana, India. 
+I specialize in crafting stunning, user-friendly websites that drive conversions. 
+With expertise in HTML5, CSS, Bootstrap, WordPress, PHP, SQL, C, and Python, I create dynamic and responsive digital experiences tailored to my clients' unique needs.
 
 **Education**
 
@@ -30,4 +32,4 @@ Check out my latest projects on my personal website- [Portfolio Webpage](https:/
 I'm passionate about creating visually appealing and functionally seamless websites that effectively communicate brand messages and engage target audiences. If you're looking for a dedicated and skilled web developer, let's connect!
 
 Email: devtrivedi130@gmail.com
-LinkedIn: linkedin.com/in/dev-trivedi-5812b4256
+LinkedIn: [linkedin.com/in/dev-trivedi-5812b4256](linkedin.com/in/dev-trivedi-5812b4256)
