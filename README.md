@@ -32,4 +32,4 @@ Check out my latest projects on my personal website- [Portfolio Webpage](https:/
 I'm passionate about creating visually appealing and functionally seamless websites that effectively communicate brand messages and engage target audiences. If you're looking for a dedicated and skilled web developer, let's connect!
 
 Email: devtrivedi130@gmail.com
-LinkedIn: [linkedin.com/in/dev-trivedi-5812b4256](linkedin.com/in/dev-trivedi-5812b4256)
+LinkedIn: [linkedin.com/in/dev-trivedi-5812b4256](https://www.linkedin.com/in/dev-trivedi-5812b4256/)
