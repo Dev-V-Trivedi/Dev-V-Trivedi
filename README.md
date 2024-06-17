@@ -24,7 +24,7 @@ Website Design
 Logo Design
 
 **Projects**
-Check out my latest projects on my personal website- [Portfolio](devtrivedi.me)
+Check out my latest projects on my personal website- [Portfolio]([devtrivedi.me](https://devtrivedi.me/))
 
 **Let's Connect**
 I'm passionate about creating visually appealing and functionally seamless websites that effectively communicate brand messages and engage target audiences. If you're looking for a dedicated and skilled web developer, let's connect!
