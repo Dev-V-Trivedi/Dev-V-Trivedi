@@ -1,36 +1,187 @@
-**Dev Trivedi - Web Developer**
+<div align="center">
 
-**About Me**
-Hi there! I'm Dev Trivedi, a passionate web developer and designer from Hyderabad, Telangana, India. 
-I specialize in crafting stunning, user-friendly websites that drive conversions. 
-With expertise in HTML5, CSS, Bootstrap, WordPress, PHP, SQL, C, and Python, I create dynamic and responsive digital experiences tailored to my clients' unique needs.
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        ██████╗ ███████╗██╗   ██╗    ██╗   ██╗               ║
+║        ██╔══██╗██╔════╝██║   ██║    ██║   ██║               ║
+║        ██║  ██║█████╗  ██║   ██║    ██║   ██║               ║
+║        ██║  ██║██╔══╝  ╚██╗ ██╔╝    ╚██╗ ██╔╝               ║
+║        ██████╔╝███████╗ ╚████╔╝      ╚████╔╝                ║
+║        ╚═════╝ ╚══════╝  ╚═══╝        ╚═══╝                 ║
+║                                                              ║
+║              T R I V E D I                                   ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-**Education**
+</div>
 
-- Pursuing B.Tech in Computer Science and Engineering (IoT) from Siddhartha Institute of Technology and Sciences
-Graduating in 2026
+<div align="center">
 
-**Experience**
-Web Developer Intern @ BRIK Partners (Nov 2023 - Present)
+# ⚡ Dev V Trivedi
 
-Collaborating with a talented team to deliver innovative web solutions
-Applying knowledge and skills in a professional setting
-Continuously learning and growing
+### `Founder` · `AI Systems Builder` · `Automation Builder`
 
-**Skills**
+*Building [Apxero](https://apxero.dev) - AI Employees for Businesses*
 
-Web Development : HTML5, CSS3, Bootstrap, Tailwind CSS, WordPress, Shopify, Responsive Design, Elementor, WPBakery
-Frontend Technologies: JavaScript (Basics), React.js (Learning), ACF, UI/UX Principles, DOM Manipulation
-Backend Technologies: Google Apps Script, REST APIs, PHP (Basics), MySQL (Basics), Firebase (Basic), Git & GitHub, cPanel, Postman
-AI/ML (Beginner): Python, NumPy, Pandas, Scikit-learn (Learning Stage)
-Software Development: Practices: Version Control (Git), Agile (Basics), Debugging, Code Review, Documentation
-Soft Skills: Client Communication, Lead Generation, Problem-Solving, Project Ownership, Time Management
+*Building AI systems and digital infrastructure for modern businesses.*
 
-**Projects**
-Check out my latest projects on my personal website- [Portfolio Webpage](https://devtrivedi.me/)
+[![Website](https://img.shields.io/badge/🌐_devtrivedi.me-000000?style=for-the-badge&logoColor=white)](https://devtrivedi.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-v-trivedi)
+[![Apxero](https://img.shields.io/badge/⚙️_Apxero-FF4500?style=for-the-badge)](https://apxero.dev)
+[![Hikari Webworks](https://img.shields.io/badge/🌸_Hikari_Webworks-8B5CF6?style=for-the-badge)](https://hikariwebworks.studio)
 
-**Let's Connect**
-I'm passionate about creating visually appealing and functionally seamless websites that effectively communicate brand messages and engage target audiences. If you're looking for a dedicated and skilled web developer, let's connect!
+</div>
 
-Email: devtrivedi130@gmail.com
+---
+
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=Dev-V-Trivedi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500&text_color=C9D1D9" />
+
+## 🧠 Who Am I?
+
+> Founder, automation builder, and software developer on a mission to build **AI systems that help businesses operate more efficiently.**
+
+I build systems that automate workflows and help businesses operate more efficiently. My work sits at the intersection of **AI, automation, and real-world business operations.**
+
+- 🔨 Currently building **[Apxero](https://apxero.dev)** - an AI Employees platform
+- 🌸 Founder & CEO of **[Hikari Webworks](https://hikariwebworks.studio)** - AI agents & modern web solutions
+- 🌿 Founder of **Mridmani Organics** - organic agri exports to global markets
+- 🎓 B.Tech CSE (IoT) @ Siddhartha Institute of Technology & Sciences `'26`
+
+<br clear="right"/>
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚙️ [Apxero](https://apxero.dev)
+**AI Employees for Businesses**
+
+An AI Employees platform designed to automate business operations end-to-end.
+
+**Meet Artha** - the first AI employee:
+- 🧾 Invoices & Quotations
+- 👥 Client & Service Management
+- 💰 Financial Workflows
+- 📊 Purchase Invoice Automation
+
+*One platform. One AI. Zero operational chaos.*
+
+</td>
+<td width="50%">
+
+### 🌸 [Hikari Webworks](https://hikariwebworks.studio)
+**Automation & AI Agency**
+
+Building automation systems, AI agents, and modern web solutions for businesses that want to move faster.
+
+**What we do:**
+- 🤖 AI Agent Development
+- ⚡ Workflow Automation
+- 🌐 Modern Web Applications
+- 🔗 Systems Integration
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌿 Mridmani Organics
+**Organic Agri Exports**
+
+An export initiative focused on supplying high-quality organic agricultural products to international markets.
+
+- 🌾 Organic agricultural products
+- 📦 Export-grade packaging
+- 🌍 Global market distribution
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+```yaml
+Frontend:
+  - HTML5, CSS3, Bootstrap, WordPress, Elementor
+
+Backend & Databases:
+  - Python, PHP, C
+  - MySQL, SQL, Firebase
+
+AI & Automation:
+  - AI Agents, Prompt Engineering
+  - Chatbots, Workflow Automation
+  - n8n, REST APIs
+
+Tools & Platforms:
+  - Git & GitHub
+  - Postman, Shopify
+  - Firebase, REST APIs
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dev-V-Trivedi&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-V-Trivedi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4500&layout=compact" width="49%" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```
+╭─────────────────────────────────────────────────────────────╮
+│  ► Building Apxero - AI Employees for Businesses            │
+│  ► Developing automation systems for SMB operations         │
+│  ► Exploring practical AI agents & workflow automation      │
+╰─────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## 🌍 Areas of Work
+
+<div align="center">
+
+![Software Development](https://img.shields.io/badge/Software_Development-0D1117?style=for-the-badge&logoColor=white&color=FF4500)
+![AI Automation](https://img.shields.io/badge/AI_Automation_Systems-0D1117?style=for-the-badge&color=8B5CF6)
+![AI Agents](https://img.shields.io/badge/AI_Agents_%26_Workflows-0D1117?style=for-the-badge&color=0EA5E9)
+![Web Applications](https://img.shields.io/badge/Web_Applications-0D1117?style=for-the-badge&color=10B981)
+![SaaS Platforms](https://img.shields.io/badge/SaaS_Platforms-0D1117?style=for-the-badge&color=F59E0B)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📡 Let's Connect
+
+*Building AI systems that replace repetitive work.*
+*Reach out if you want to collaborate, automate, or just talk shop.*
+
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@devtrivedi.me)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-v-trivedi)
+[![Website](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devtrivedi.me)
+
+---
+
+<sub>⚡ *"The best automation is the one that makes humans more human."*</sub>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dev-V-Trivedi&color=FF4500&style=flat-square&label=Profile+Views)
+
+</div>
 LinkedIn: [linkedin.com/in/dev-v-trivedi] (https://www.linkedin.com/in/dev-v-trivedi)
