@@ -20,16 +20,17 @@
 
 # ⚡ Dev V Trivedi
 
-### `Founder` · `AI Systems Builder` · `Automation Builder`
+### `Founder` · `AI Systems Architect` · `Full-Stack Web Engineer`
 
-*Building [Apxero](https://apxero.dev) - AI Employees for Businesses*
+*Building [Apxero](https://apxero.dev) - Autonomous AI Employees for Businesses*
 
-*Building AI systems and digital infrastructure for modern businesses.*
+*Engineering Search-Dominating Web Systems & Conversational AI at [Hikari Webworks](https://hikariwebworks.studio)*
 
 [![Website](https://img.shields.io/badge/🌐_devtrivedi.me-000000?style=for-the-badge&logoColor=white)](https://devtrivedi.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-v-trivedi)
-[![Apxero](https://img.shields.io/badge/⚙️_Apxero-FF4500?style=for-the-badge)](https://apxero.dev)
 [![Hikari Webworks](https://img.shields.io/badge/🌸_Hikari_Webworks-8B5CF6?style=for-the-badge)](https://hikariwebworks.studio)
+[![Apxero](https://img.shields.io/badge/⚙️_Apxero-FF4500?style=for-the-badge)](https://apxero.dev)
+[![Calendly](https://img.shields.io/badge/📅_Book_Call-E94B8F?style=for-the-badge)](https://calendly.com/hikariwebworks/one-on-one-call-hikari-webworks)
 
 </div>
 
@@ -39,13 +40,13 @@
 
 ## 🧠 Who Am I?
 
-> Founder, automation builder, and software developer on a mission to build **AI systems that help businesses operate more efficiently.**
+> Founder, full-stack engineer, and automation architect building **production AI systems and ultra-fast web platforms that drive real revenue.**
 
-I build systems that automate workflows and help businesses operate more efficiently. My work sits at the intersection of **AI, automation, and real-world business operations.**
+My work sits at the intersection of **autonomous AI agents, edge-rendered web performance, and real-world business operations.**
 
-- 🔨 Currently building **[Apxero](https://apxero.dev)** - an AI Employees platform
-- 🌸 Founder & CEO of **[Hikari Webworks](https://hikariwebworks.studio)** - AI agents & modern web solutions
-- 🌿 Founder of **Mridmani Organics** - organic agri exports to global markets
+- 🌸 Founder & Lead Architect @ **[Hikari Webworks](https://hikariwebworks.studio)** - Sub-second Next.js web applications, sub-500ms AI voice agents, and [3D/VR virtual walkthroughs](https://hikariwebworks.studio/services/3d-vr-walkthroughs).
+- ⚙️ Co-Founder @ **[Apxero](https://apxero.dev)** - Autonomous AI Employee infrastructure for service enterprises.
+- 🌿 Founder @ **Mridmani Organics** - Organic agri exports to international markets.
 - 🎓 B.Tech CSE (IoT) @ Siddhartha Institute of Technology & Sciences `'26`
 
 <br clear="right"/>
@@ -58,32 +59,33 @@ I build systems that automate workflows and help businesses operate more efficie
 <tr>
 <td width="50%">
 
-### ⚙️ [Apxero](https://apxero.dev)
-**AI Employees for Businesses**
+### 🌸 [Hikari Webworks](https://hikariwebworks.studio)
+**Web Engineering & AI Automation Studio**
 
-An AI Employees platform designed to automate business operations end-to-end.
+Building high-converting digital assets and autonomous operations for enterprises, healthcare BPOs, and real estate developers globally.
 
-**Meet Artha** - the first AI employee:
-- 🧾 Invoices & Quotations
-- 👥 Client & Service Management
-- 💰 Financial Workflows
-- 📊 Purchase Invoice Automation
-
-*One platform. One AI. Zero operational chaos.*
+**Core Solutions:**
+- ⚡ **[Bespoke Next.js & React Web Apps](https://hikariwebworks.studio/services/website-development)** (100/100 Core Web Vitals)
+- 🤖 **[AI Voice Agents & Phone Automation](https://hikariwebworks.studio/services/phone-agents)** (Sub-500ms latency)
+- 🏢 **[Real Estate AI & 3D Walkthroughs](https://hikariwebworks.studio/services/3d-vr-walkthroughs)** ([Harpal Towers Demo](https://harpal.hikariwebworks.studio/))
+- 💬 **[WhatsApp Meta Cloud API Automation](https://hikariwebworks.studio/services/whatsapp)**
+- 📈 **[2026 Web Dev & AI Cost Benchmark Report](https://hikariwebworks.studio/blog/2026-web-development-ai-cost-benchmark-report)**
 
 </td>
 <td width="50%">
 
-### 🌸 [Hikari Webworks](https://hikariwebworks.studio)
-**Automation & AI Agency**
+### ⚙️ [Apxero](https://apxero.dev)
+**AI Employees for Businesses**
 
-Building automation systems, AI agents, and modern web solutions for businesses that want to move faster.
+An autonomous platform designed to replace repetitive back-office operations with dedicated AI agents.
 
-**What we do:**
-- 🤖 AI Agent Development
-- ⚡ Workflow Automation
-- 🌐 Modern Web Applications
-- 🔗 Systems Integration
+**Meet Artha** - Autonomous Financial & Operations AI:
+- 🧾 Automated Invoicing & Quotation Generation
+- 👥 Multi-Channel Client & Service Workflows
+- 💰 End-to-End Financial Reconciliation
+- 📊 Purchase Orders & Receipt Intelligence
+
+*One platform. Intelligent execution. Zero operational chaos.*
 
 </td>
 </tr>
@@ -91,45 +93,52 @@ Building automation systems, AI agents, and modern web solutions for businesses 
 <td width="50%">
 
 ### 🌿 Mridmani Organics
-**Organic Agri Exports**
+**Global Organic Agri Exports**
 
-An export initiative focused on supplying high-quality organic agricultural products to international markets.
+Sustainable agricultural export network supplying certified organic products to international markets.
 
-- 🌾 Organic agricultural products
-- 📦 Export-grade packaging
-- 🌍 Global market distribution
+- 🌾 Certified organic agricultural commodities
+- 📦 Export-grade hermetic packaging
+- 🌍 Cross-border distribution channels
 
 </td>
-<td width="50%"></td>
+<td width="50%">
+
+### 🔬 Technical Research & Open Guides
+- 📊 [2026 Global Web Dev Cost Report](https://hikariwebworks.studio/blog/2026-web-development-ai-cost-benchmark-report)
+- ⚡ [Core Web Vitals & Technical SEO Engine](https://hikariwebworks.studio/blog/core-web-vitals-technical-seo-ranking-2026)
+- 🏥 [Medical Transcription Automation Case Study](https://hikariwebworks.studio/blog/medical-transcription-automation-case-study-2026)
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Modern Tech Stack & Architecture
 
 ```yaml
-Frontend:
-  - HTML5, CSS3, Bootstrap, WordPress, Elementor
+Frontend & UI:
+  - TypeScript, React 19, Next.js (App Router)
+  - Tailwind CSS, Framer Motion, Three.js, WebGL / WebXR
 
-Backend & Databases:
-  - Python, PHP, C
-  - MySQL, SQL, Firebase
+Backend & APIs:
+  - Python, Node.js, Fastify, REST & GraphQL
+  - PostgreSQL, Supabase, Redis, Cloudflare Workers
 
-AI & Automation:
-  - AI Agents, Prompt Engineering
-  - Chatbots, Workflow Automation
-  - n8n, REST APIs
+AI, Voice & Automation:
+  - LiveKit, ElevenLabs Conversational AI
+  - OpenAI GPT-4o / Whisper, Anthropic Claude 3.5
+  - n8n Workflow Automation, Meta WhatsApp Cloud API
 
-Tools & Platforms:
-  - Git & GitHub
-  - Postman, Shopify
-  - Firebase, REST APIs
+Tools & DevOps:
+  - Git & GitHub, Docker, Vercel Edge Network
+  - Postman, Linux, SEO / Schema.org JSON-LD
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -140,27 +149,27 @@ Tools & Platforms:
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Architecture
 
 ```
 ╭─────────────────────────────────────────────────────────────╮
-│  ► Building Apxero - AI Employees for Businesses            │
-│  ► Developing automation systems for SMB operations         │
-│  ► Exploring practical AI agents & workflow automation      │
+│  ► Scaling Hikari Webworks AI Voice & 3D WebXR solutions    │
+│  ► Engineering Apxero Autonomous AI Employee Workflows      │
+│  ► Sub-second Edge Performance & Core Web Vitals R&D        │
 ╰─────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## 🌍 Areas of Work
+## 🌍 Key Focus Areas
 
 <div align="center">
 
-![Software Development](https://img.shields.io/badge/Software_Development-0D1117?style=for-the-badge&logoColor=white&color=FF4500)
-![AI Automation](https://img.shields.io/badge/AI_Automation_Systems-0D1117?style=for-the-badge&color=8B5CF6)
-![AI Agents](https://img.shields.io/badge/AI_Agents_%26_Workflows-0D1117?style=for-the-badge&color=0EA5E9)
-![Web Applications](https://img.shields.io/badge/Web_Applications-0D1117?style=for-the-badge&color=10B981)
-![SaaS Platforms](https://img.shields.io/badge/SaaS_Platforms-0D1117?style=for-the-badge&color=F59E0B)
+![Full-Stack Engineering](https://img.shields.io/badge/Full--Stack_Engineering-0D1117?style=for-the-badge&logoColor=white&color=FF4500)
+![AI Voice & Agents](https://img.shields.io/badge/AI_Voice_%26_Agents-0D1117?style=for-the-badge&color=8B5CF6)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-0D1117?style=for-the-badge&color=0EA5E9)
+![3D WebXR](https://img.shields.io/badge/3D_WebXR_%26_Three.js-0D1117?style=for-the-badge&color=10B981)
+![Technical SEO](https://img.shields.io/badge/Technical_SEO_%26_AEO-0D1117?style=for-the-badge&color=F59E0B)
 
 </div>
 
@@ -168,20 +177,20 @@ Tools & Platforms:
 
 <div align="center">
 
-### 📡 Let's Connect
+### 📡 Let's Build Something Exceptional
 
-*Building AI systems that replace repetitive work.*
-*Reach out if you want to collaborate, automate, or just talk shop.*
+*Replacing repetitive work with intelligent code.*
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@devtrivedi.me)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@hikariwebworks.studio)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-v-trivedi)
-[![Website](https://img.shields.io/badge/Visit_My_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devtrivedi.me)
+[![Schedule Call](https://img.shields.io/badge/Book_15--Min_Call-E94B8F?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/hikariwebworks/one-on-one-call-hikari-webworks)
+[![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918179653410)
+[![Website](https://img.shields.io/badge/hikariwebworks.studio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hikariwebworks.studio)
 
 ---
 
-<sub>⚡ *"The best automation is the one that makes humans more human."*</sub>
+<sub>⚡ *"The best systems are the ones that make humans more capable."*</sub>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dev-V-Trivedi&color=FF4500&style=flat-square&label=Profile+Views)
 
 </div>
-LinkedIn: [linkedin.com/in/dev-v-trivedi] (https://www.linkedin.com/in/dev-v-trivedi)
